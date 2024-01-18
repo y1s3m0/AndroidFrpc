@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    compileSdk 22
+    compileSdk 32
 
     defaultConfig {
         applicationId "com.ironxiao.frpc"
         minSdk 22
-        targetSdk 22
+        targetSdk 32
         versionCode 4
         versionName "3.1"
 
